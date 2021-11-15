@@ -7,7 +7,7 @@ The goal was to create a data visualisation (using the d3 library) based on give
 # Rubric
 Shown beneath is the rubric for our grades.
 
-<img width="801" alt="Screenshot 2021-11-04 at 15 35 07" src="https://user-images.githubusercontent.com/56078226/140333410-643abb0e-09b0-4dc6-bbda-ffbe668af556.png">
+<img width="1018" alt="Screenshot 2021-11-15 at 14 07 10" src="https://user-images.githubusercontent.com/56078226/141787120-e973d0cd-4fdc-4b2a-b816-6475eb90889f.png">
 
 # Credits
 
