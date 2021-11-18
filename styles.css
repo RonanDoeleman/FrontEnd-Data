@@ -1,25 +1,43 @@
 body {
 
-  width: 800px;
+	margin:0;
+	overflow: hidden;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+#wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+rect:hover {
   
-  margin: 25px auto;
-  
-  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  
-  }
-  
-  rect {
-  
-  fill: royalblue;
-  
-  cursor: pointer;
-  
-  }
-  
-  rect:hover {
-  
-  fill: lightblue;
-  transition: .5s;
-  
-  }
-  
+  	fill: lightcoral;
+  	transition: .5s;
+	cursor: pointer;
+}
+
+.filter{
+	display: flex;
+	align-items: center;
+    text-align: left;
+    margin-bottom: 2em;
+}
+
+.filter p{
+	font-weight: 800;
+}
+
+h1{
+	color: orangered;
+}
+
+.axis{
+	font-size: 14px;
+}
